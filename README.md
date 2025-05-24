@@ -1,6 +1,6 @@
  Hey there, I'm Kunal
 
- 3rd Year B.Tech Student at NIT Goa
+ 3rd Year B.Tech Student at NIT Goa <br>
  Passionate about tech, coding, and problem-solving  
  Currently learning Data Structures & Algorithms (DSA) and Web Development
 
