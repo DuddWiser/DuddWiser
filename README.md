@@ -6,7 +6,7 @@
 
 ---
 
-# Tech Stack
+ Tech Stack
 
 -  Languages: C, C++, Python 
 -  Web: HTML, CSS, JavaScript (learning)
