@@ -9,7 +9,7 @@
  Tech Stack
 
 -  Languages: C, C++, Python 
--  Web: HTML, CSS, JavaScript (learning)
+-  Web: HTML, CSS, JavaScript, ReactJs
 -  Tools: Git, GitHub, VS Code
 
 Looking forward to more learnings!
